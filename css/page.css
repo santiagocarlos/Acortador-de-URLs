@@ -1,0 +1,33 @@
+body {
+	 background-image: url('../img/white-background2.png');
+	}
+.container-short{
+	margin-top: 10%;
+	text-align: center;
+}	
+.titulo{
+	font-size: 34px;
+	font-weight: bolder;
+	color: #949494;
+}
+.input-group{
+	margin-top: 4%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+.skrink-result{
+	margin-top: 1%;
+	color: #111;
+}
+.boton-accion{
+	margin-top: 2%;
+}
+.footer {
+	width: 100%;
+	background: #fff;
+	border-top: 1px #ccc solid;
+	position: fixed;
+	bottom: 0;
+	padding: 15px;
+	text-align: center;
+}
